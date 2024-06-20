@@ -1,27 +1,15 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# 혀찬 개발자 포토폴리오 블로그
+ 제가 그동안 수행했던 프로젝트들과 기본 정보에 대해서 기재한 포토폴리오 용도로 만든 블로그입니다.
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+## 테마 설명
 
-## Getting Started
-
-To begin using this template, choose one of the following options to get started:
+블로그에 사용한 테마 정보입니다. 테마명과 아래 링크를 참고해주세요.
+* 사용 테마 : start bootstrap - Freelancer Theme.
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
 * Fork the repo
 
-## Bugs and Issues
+## 블로그 상세 설명
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+* 희망 직무 : App developer - Web Developer - UI / UX Designer
+* 진행했던 프로젝트 : 플러터를 이용한 앱 개발, 임베디드를 활용한 공부 스탑워치, 꽃 가게 블로그 제작, 친구들과 진행하는 CS 스터디, 협업을 위한 git & github 스터디
+* Contact 기능 : 협업 문의를 위한 Contact 기능
