@@ -203,6 +203,7 @@ section.success {
   display: block;
   position: relative;
   max-width: 400px;
+  
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -300,7 +301,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #2C3E50;
+  background: linear-gradient(to bottom, #3c6cf2, #a1c2ff);
 }
 footer .footer-col {
   margin-bottom: 50px;
@@ -369,8 +370,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #004fff;
+  border-color: #004fff;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -379,8 +380,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: white;
-  background-color: #128f76;
-  border-color: #11866f;
+  background-color: #0240c6;
+  border-color: #0240c6;
 }
 .btn-success:active,
 .btn-success.active,
