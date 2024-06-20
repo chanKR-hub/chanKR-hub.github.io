@@ -16,4 +16,5 @@
 
 ## 깃허브 
 * GitHub : https://github.com/chanKR-hub
+* 블로그 리포지터리 : https://github.com/chanKR-hub/chanKR-hub.github.io
 
