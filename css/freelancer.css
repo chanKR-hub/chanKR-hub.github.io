@@ -177,6 +177,8 @@ header .intro-text .skills {
   }
 }
 section {
+  margin-top: 200px;
+  margin-bottom: 200px;
   padding: 100px 0;
 }
 section h2 {
@@ -184,7 +186,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: linear-gradient(to bottom, #3c6cf2, #a1c2ff);
+  background: white;
   color: white;
 }
 @media (max-width: 767px) {
@@ -526,13 +528,3 @@ div#maincontent {
   outline: none;
 }
 
-
-.stk{
-  padding-top: 300px;
-  padding-bottom: 300px;
-}
-.stk h4{
-  padding-top: 50px;
-  padding-left: 200px;
-  font-size: 15pt;
-}
